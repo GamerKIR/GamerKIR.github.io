@@ -1,0 +1,22 @@
+{
+  "id": "Смерть-22-09-10-11-28-2025_154-107-43",
+  "name": "Смерть 22:09:10 11-28-2025",
+  "icon": "journeymap:ui/img/waypoint-death-icon.png",
+  "colorizedIcon": "fake:color--2226354-waypoint-death-icon.png",
+  "x": 154,
+  "y": 107,
+  "z": 43,
+  "r": 222,
+  "g": 7,
+  "b": 78,
+  "enable": true,
+  "type": "Death",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

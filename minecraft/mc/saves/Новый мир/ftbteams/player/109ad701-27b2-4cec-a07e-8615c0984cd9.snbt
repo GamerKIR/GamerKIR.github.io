@@ -1,0 +1,17 @@
+{
+	id: "109ad701-27b2-4cec-a07e-8615c0984cd9"
+	type: "player"
+	player_name: "fafafghf_YT"
+	ranks: {
+		109ad701-27b2-4cec-a07e-8615c0984cd9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "fafafghf_YT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF595D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

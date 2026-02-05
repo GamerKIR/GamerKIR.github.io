@@ -1,0 +1,24 @@
+{
+  "id": "Untitled-Waystone_-916-74-89",
+  "name": "Untitled Waystone",
+  "groupName": ":Waystones",
+  "displayId": "59bf8bf5-b9cd-4656-8fba-a086c01f1319",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -916,
+  "y": 74,
+  "z": -89,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Смерть-20-59-36-11-23-2025_-831-73-108",
+  "name": "Смерть 20:59:36 11-23-2025",
+  "groupName": "Метки",
+  "icon": "journeymap:ui/img/waypoint-death-icon.png",
+  "colorizedIcon": "fake:color--580073-waypoint-death-icon.png",
+  "x": -831,
+  "y": 73,
+  "z": -108,
+  "r": 247,
+  "g": 38,
+  "b": 23,
+  "enable": false,
+  "type": "Death",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
